@@ -36,12 +36,12 @@ body {
   color: white;
   font-size: 30px;
   position: fixed;
-  top: 40px;
+  top: 3px;
 }
 .happy-woman-day-image {
   text-align: center;
   position: fixed;
-  top: 215px;
+  top: 140px;
 }
 .happy-woman-day-image img {
   width: 150px;
@@ -1192,6 +1192,7 @@ body {
 }
 
 .marquee {
+  margin-top: -10px;
   width: 100%; /* Chiều rộng của khung chứa */
   overflow: hidden; /* Giấu phần chữ khi tràn ra ngoài */
   white-space: nowrap; /* Không ngắt dòng */
